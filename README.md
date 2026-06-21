@@ -1,5 +1,5 @@
-# 💫 About Me:
-🤖 AI & ML Enthusiast • ⚛️ React Developer • ☕ Spring Boot Developer • ☁️ AWS Learner<br><br>Building intelligent applications, scalable web solutions, and cloud-powered experiences.<br><br>"Code is the bridge between ideas and reality."
+
+ AI & ML Enthusiast •  React Developer •  Spring Boot Developer • ☁️ AWS Learner<br><br>Building intelligent applications, scalable web solutions, and cloud-powered experiences.<br><br>      "Code is the bridge between ideas and reality." - PVN
 
 
 ## 🌐 Socials:
