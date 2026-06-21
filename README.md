@@ -1,5 +1,10 @@
 # 💫 About Me:
-I build modern websites, mobile applications, and AI-powered automation solutions that help businesses grow and save time. Skilled in UI/UX Design, React, JavaScript, and AI Automation, I create user-friendly digital products with a focus on performance and business results.<br><br>My expertise includes custom business websites, web applications, mobile apps, WhatsApp/Instagram automation, workflow automation, and AI agents. I enjoy turning ideas into scalable products that solve real-world problems.<br><br>🚀 UI/UX Design | Website Development | Mobile Apps | AI Agents | Business Automation<br><br>You can also use a shorter version:<br><br>UI/UX Designer & Full-Stack Developer passionate about building websites, mobile apps, and AI-powered automation solutions. I help businesses automate workflows, improve customer experiences, and grow online through modern digital products.<br><br>💻 Websites & Web Apps<br>📱 Mobile Applications<br>🤖 AI Agents & Automation<br>🚀 React | <br>java <br>data structure and algorithm spring boot<br>
+🤖 AI & ML Enthusiast • ⚛️ React Developer • ☕ Spring Boot Developer • ☁️ AWS Learner
+
+Building intelligent applications, scalable web solutions, and cloud-powered experiences.
+
+"Code is the bridge between ideas and reality."
+
 
 
 # 💻 Tech Stack:
